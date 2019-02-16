@@ -1,5 +1,6 @@
 import React, { Component } from 'react' ;
 
+/*
 const QuizEnd = () => {
     return (
         <div>
@@ -8,9 +9,9 @@ const QuizEnd = () => {
         </div>
     )
 }
+*/
 
 
-/*
 class QuizEnd extends Component {
 
     render () {
@@ -23,5 +24,5 @@ class QuizEnd extends Component {
     }
 
 }
-*/
+
 export default QuizEnd;
