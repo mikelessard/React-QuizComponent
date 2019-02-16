@@ -1,5 +1,16 @@
 import React, { Component } from 'react' ;
 
+const QuizQuestionButton = (props) => {
+    return (
+        <li>
+            <button>
+                {props.button_text}
+            </button>
+        </li>   
+    )
+}
+
+/*
 class QuizQuestionButton extends Component {
 
     render() {
@@ -12,5 +23,5 @@ class QuizQuestionButton extends Component {
         )
     }
 }
-
+*/
 export default QuizQuestionButton;
