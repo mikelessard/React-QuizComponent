@@ -1,17 +1,6 @@
 import React, { Component } from 'react' ;
 
-/*
-const QuizQuestionButton = (props) => {
-    
-    return (
-        <li>
-            <button onClick={handleClick}>
-                {props.button_text}
-            </button>
-        </li>   
-    )
-}
-*/
+
 
 class QuizQuestionButton extends Component {
 
